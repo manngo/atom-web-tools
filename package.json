@@ -1,7 +1,7 @@
 {
 	"name": "web-developer-tools",
 	"main": "./lib/web-tools",
-	"version": "0.4.2",
+	"version": "0.4.3",
 	"description": "A Set of Tools to work with Web Development",
 	"keywords": [],
 	"activationCommands": {
